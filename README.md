@@ -30,6 +30,16 @@ In the global context, while mixed reality has been an emerging concept for year
 
 ---
 
+## Supplementary Material
+
+- [This folder](./src) contains the data and scripts I utilized when writing the literature review..
+- [This site](https://harzing.com/resources/publish-or-perish) contains the software I utilized for collecting and searching the desired papers.
+- [This](Literature_Review_of_Mixed_Reality_Research-arxiv.pdf) is the duplicate of the paper downloaded from [Arxiv](https://arxiv.org/abs/2312.02995), whic is the **full version** that I recommend.
+- [This](Literature_Review_of_Mixed_Reality_Research.pdf) is the duplicate of the manuscript I submitted to the journal. **Due to publication fees, some content has been omitted**.
+- [This](./Template.doc) serves as the style template I used for crafting this literature review.
+
+
+
 ## Extended Reference List
 
 ### _Sorted by Date till 15th Dec, 2023_
