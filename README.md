@@ -1,5 +1,5 @@
 # Literature Review of Mixed Reality Research
-### [[Project](https://aizierjiang.github.io/mr)] [[Paper](https://arxiv.org/abs/2312.02995)]
+### [[Project](https://aizierjiang.github.io/mr)] [[Paper](https://arxiv.org/abs/2312.02995)] [[Code](https://github.com/Aizierjiang/mr)]
 
 > [**Literature Review of Mixed Reality Research**](https://arxiv.org/abs/2312.02995),            
 > Aizierjiang Aiersilan  
