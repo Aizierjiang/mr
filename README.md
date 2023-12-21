@@ -8,9 +8,6 @@
 **Official implementation of "Literature Review of Mixed Reality Research".** 
 
 
-## Abstract
-In the global context, while mixed reality has been an emerging concept for years, recent technological and scientific advancements have now made it poised to revolutionize industries and daily life by offering enhanced functionalities and improved services. Besides reviewing the highly cited papers in the last 20 years among over a thousand research papers on mixed reality, this systematic review provides the state-of-the-art applications and utilities of the mixed reality by primarily scrutinizing the associated papers in 2022 and 2023. Focusing on the potentials that this technology have in providing digitally supported simulations and other utilities in the era of large language models, highlighting the potential and limitations of the innovative solutions and also bringing focus to emerging research directions, such as telemedicine, remote control and optimization of direct volume rendering. 
-
 
 ## 📜 BibTeX
 ```bibtex
