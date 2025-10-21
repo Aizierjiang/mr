@@ -10,6 +10,9 @@
 
 
 ## 📜 BibTeX
+
+_[Full Version on Arxiv](https://arxiv.org/abs/2312.02995)_
+
 ```bibtex
 @article{aizierjiang2023mr,
   title={Literature Review of Mixed Reality Research},
@@ -20,6 +23,24 @@
 ```
 
 <br>
+
+_[Shortened Version in Conference](https://www.shs-conferences.org/articles/shsconf/abs/2024/07/shsconf_essc2024_03031/shsconf_essc2024_03031.html)_
+
+```
+@inproceedings{aiersilan2024literature,
+  title={Literature Review of Mixed Reality Research},
+  author={Aiersilan, Aizierjiang and Ye, Xianze and Su, Guanpeng},
+  booktitle={SHS Web of Conferences},
+  volume={187},
+  pages={03031},
+  year={2024},
+  organization={EDP Sciences}
+}
+```
+
+<br>
+<br>
+
 
 
 ## Supplementary Material
